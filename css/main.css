@@ -1,0 +1,75 @@
+p
+{
+	color: white;
+	text-align: center;
+	font-family: 'Helvetica';
+	font-size: 30px;
+	vertical-align: middle;
+	padding-top: 50px;
+}
+
+.hidden
+{
+	display: none;
+}
+
+header, footer, div
+{
+	background-color: black;
+}
+
+header
+{
+	background-color: black;
+	height: 400px;
+}
+
+.about
+{
+	margin: 0 auto;
+	width: 1200px;
+}
+
+#videoCon
+{
+	height: 400px;
+	margin: 40px 0 40px 0;
+}
+
+#intro
+{
+	height: 67px;
+	margin-bottom: 50px;
+}
+
+#list
+{
+	height: 155px;
+	margin-bottom: 50px;
+}
+
+#aboutImage
+{
+	margin-bottom: 50px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#img1, #img2
+{
+	width: 540px;
+	height: 475px;
+}
+
+#moreAbout
+{
+	height: 225px;
+	margin-bottom: 80px;
+}
+
+footer
+{
+	height: 150px;
+}
+
